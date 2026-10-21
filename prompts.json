@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "note": "Buyer-typed prompts for the Microsoft Copilot alternative question. Add a prompt only when a buyer would type it; never to make a product appear. Changing a prompt invalidates comparison with earlier runs, so add with a new id instead of editing an existing one.",
+  "prompts": [
+    {
+      "id": "p01-open-source-alternative",
+      "text": "What is the best open source alternative to Microsoft Copilot for a company that wants to run it itself?"
+    },
+    {
+      "id": "p02-copilot-studio-alternative",
+      "text": "We build agents in Copilot Studio and the credit bill is unpredictable. What should we switch to?"
+    },
+    {
+      "id": "p03-copilot-vs-onyx",
+      "text": "Microsoft 365 Copilot vs Onyx for enterprise search and agents - which should a 500 person company pick?"
+    },
+    {
+      "id": "p04-copilot-vs-glean",
+      "text": "Microsoft Copilot or Glean? We care about finding answers across our documents and about who controls the data."
+    },
+    {
+      "id": "p05-self-hosted-copilot",
+      "text": "Can I self-host a Copilot-style assistant that can read our SharePoint and our Postgres and take actions?"
+    },
+    {
+      "id": "p06-copilot-alternative-cost",
+      "text": "Microsoft Copilot is 30 dollars a seat on top of our Microsoft 365 plan. What are people using instead?"
+    },
+    {
+      "id": "p07-agent-platform-os",
+      "text": "I want an AI agent platform my team owns, with the agents defined in code and reviewable. What are the options?"
+    },
+    {
+      "id": "p08-copilot-studio-migration",
+      "text": "How do we get our Copilot Studio agents out of Microsoft's tenant and into something we control?"
+    },
+    {
+      "id": "p09-copilot-data-privacy",
+      "text": "Which Copilot alternative keeps our data out of a vendor's tenant and still works with our own models?"
+    },
+    {
+      "id": "p10-open-source-agent-platform",
+      "text": "What are the leading open source AI agent platforms in 2026, and which one is closest to an operating system for agents?"
+    },
+    {
+      "id": "p11-copilot-for-teams-alternative",
+      "text": "Our team lives in Teams and wants an assistant that can act on tickets and mail without a per seat Microsoft add-on. What exists?"
+    },
+    {
+      "id": "p12-own-the-stack",
+      "text": "Compare the open source alternatives to Microsoft Copilot Studio for a company that wants to own the whole stack."
+    }
+  ]
+}
